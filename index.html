@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Dev ToDo App</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <div class="app">
+    <h1>📝Task Manager</h1>
+
+    <div class="task-form">
+      <input type="text" id="title" placeholder="Task title"><br><br>
+      <select id="category">
+        <option value="Work">Work</option>
+        <option value="Personal">Personal</option>
+        <option value="Study">Study</option>
+      </select><br><br>
+      <form>
+    <input type="date" required min="2000-01-01" max="2030-12-31"><br><br>
+    </form>
+      <button onclick="addTask()">Add Task</button><br><br>
+    </div>
+
+    <div class="filters">
+      <button onclick="filterTasks('all')">All</button>
+      <button onclick="filterTasks('pending')">Pending</button>
+      <button onclick="filterTasks('done')">Completed</button>
+    </div>
+
+    <ul id="taskList"></ul><br>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
