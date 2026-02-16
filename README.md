@@ -1,48 +1,37 @@
-<h1 align="center">Hi 👋, I'm Asma Abdul Rehman</h1>
-<h3 align="center">Frontend & Node.js Developer 🚀</h3>
+📌 Todo App – Project Description
+A responsive and user-friendly Todo App built using HTML, CSS, and JavaScript that helps users manage their daily tasks efficiently. Users can add, edit, delete, and mark tasks as completed. The app provides a clean and interactive interface to improve productivity and task organization.
+🔹 Features:
 
----
 
-## 👩‍💻 About Me
-💻 Passionate Web Developer  
-🌱 Currently learning Advanced JavaScript & Backend Development  
-🎯 Open for Freelance & Job Opportunities  
+Add new tasks
 
----
 
-## 🛠 Tech Stack
+Mark tasks as completed
 
-💎 Frontend:
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Responsive Design
 
-⚙ Backend:
-- Node.js
-- Express.js
-- REST APIs
+Delete tasks
 
-🔧 Tools:
-- Git & GitHub
-- VS Code
-- Netlify / Vercel
 
----
+Edit existing tasks
 
-## 🚀 What I Focus On
-✔ Clean & Maintainable Code  
-✔ Responsive Design  
-✔ User-Friendly Interfaces  
-✔ Performance Optimization  
 
----
+Responsive design (works on mobile & desktop)
 
-## 📫 Connect With Me
-📧 Email: your-email@example.com  
-💼 Upwork: add-link  
-🌐 Portfolio: add-link  
 
----
+Local Storage support (tasks remain saved after page refresh)
 
-⭐ Thanks for visiting my profile!
+
+🛠 Technologies Used:
+
+
+HTML5
+
+
+CSS3
+
+
+JavaScript (DOM Manipulation & Local Storage)
+
+
+🎯 Purpose:
+This project demonstrates my understanding of DOM manipulation, event handling, and local storage in JavaScript while creating a practical and real-world application.
